@@ -1,4 +1,4 @@
-<img alt="GoStack" />
+<img alt="GoStack" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1586943536/d32tomvl6x8onypta01h.png" />
 
 <h3 align="center">
   Challenge 06 - Node.js - Database and file upload!
