@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="stefanosaffran.com">
-    <img alt="Made by Stefano" src="https://img.shields.io/badge/made%20by-Stefano Saffran-%2304D361">
+    <img alt="Made by Leonardo" src="https://img.shields.io/badge/made%20by-Stefano Saffran-%2304D361">
   </a>
 </p>
 
