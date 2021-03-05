@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1586943536/d32tomvl6x8onypta01h.png" />
+<img alt="GoStack" />
 
 <h3 align="center">
   Challenge 06 - Node.js - Database and file upload!
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="stefanosaffran.com">
-    <img alt="Made by Leonardo" src="https://img.shields.io/badge/made%20by-Stefano Saffran-%2304D361">
+    <img alt="Made by Leonardo" src="https://img.shields.io/badge/made%20by-Leonardo Schellenberg-%2304D361">
   </a>
 </p>
 
@@ -31,16 +31,13 @@ This project was developed with the following technologies:
 
 ## :mailbox_with_mail: Get in touch!
 
-<a href="https://stefanosaffran.com" target="_blank" >
-  <img alt="Website - Stefano Saffran" src="https://img.shields.io/badge/Website--%23F8952D?style=social">
+<a href="https://www.linkedin.com/in/leonardo-martins-schellenberg/" target="_blank" >
+  <img alt="Linkedin - Leonardo Schellenberg" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stefanosaffran/" target="_blank" >
-  <img alt="Linkedin - Stefano Saffran" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:stefanoas@gmail.com" target="_blank" >
-  <img alt="Email - Stefano Saffran" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+<a href="mailto:leonardo.schellenberg@hotmail.com" target="_blank" >
+  <img alt="Email - Leonardo Schellenberg" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a>
 
 ---
 
-Made with :coffee: and ❤️ by Stefano Saffran.
+Made with :coffee: and ❤️ by Leonardo Schellenberg.
